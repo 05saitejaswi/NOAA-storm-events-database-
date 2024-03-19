@@ -1,1 +1,2 @@
-# NOAA-storm-events-database-
+Analysis of storm-event narratives using the NOAA storm events database:
+This project involves analyzing storm-event narratives from the NOAA storm events database. Using data from this database, the project aims to extract insights, patterns, and trends related to storm events, contributing to a better understanding of their characteristics and impacts. The analysis will encompass factors like storm types, locations, durations, severity levels, and associated damages, providing valuable information for weather forecasting, disaster preparedness, and risk mitigation strategies.
